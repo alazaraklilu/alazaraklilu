@@ -11,7 +11,7 @@
 
 <h4>Frameworks & Libraries</h4>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-lightgrey?logo=next.js&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?logo=django&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white)  
 ![Styled Components](https://img.shields.io/badge/Styled--Components-9B72F3?logo=styled-components&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
