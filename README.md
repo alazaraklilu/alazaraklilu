@@ -1,6 +1,6 @@
 # Hey, I'm Alazar 👋
 
-👨‍💻 Full-Stack Software Engineer<br> 
+👨‍💻 Software Engineer<br> 
 🎓 University of Virginia<br>
 💼 Working on Polybase & Encryptora<br>
 🌱 Learning Ruby on Rails<br>
