@@ -4,7 +4,6 @@
 🎓 University of Virginia<br>
 💼 Working on Polybase & Encryptora<br>
 🌱 Learning Ruby on Rails<br>
-📧 Feel free to reach out! zar.aklilu@gmail.com<br>
 
 <h4>Languages</h4>
 
