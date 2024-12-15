@@ -25,19 +25,6 @@
 
 <div style="font-size: 1.5em; font-weight: bold; text-align: center; color: #fff; 
             background: linear-gradient(90deg, #ff8c00, #1e90ff, #ff8c00); 
-            padding: 10px; border-radius: 5px; 
-            animation: glow 3s infinite;">
+            padding: 10px; border-radius: 5px;">
   Calm under pressure, curious by default.
 </div>
-
-<style>
-  @keyframes glow {
-    0% { box-shadow: 0 0 5px #ff8c00; }
-    50% { box-shadow: 0 0 20px #1e90ff; }
-    100% { box-shadow: 0 0 5px #ff8c00; }
-  }
-
-  div {
-    animation: glow 3s infinite; 
-  }
-</style>
