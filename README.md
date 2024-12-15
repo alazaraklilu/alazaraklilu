@@ -21,3 +21,16 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertest-000000?logo=supertest&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)<br>
 
+<br>
+
+<div style="font-size: 1.5em; font-weight: bold; text-align: center; color: #fff; background: linear-gradient(90deg, #ff8c00, #1e90ff, #ff8c00); animation: glow 3s infinite; padding: 10px; border-radius: 5px;">
+Calm under pressure, curious by default.
+</div>
+
+<style>
+  @keyframes glow {
+    0% { box-shadow: 0 0 5px #ff8c00; }
+    50% { box-shadow: 0 0 20px #1e90ff; }
+    100% { box-shadow: 0 0 5px #ff8c00; }
+  }
+</style>
