@@ -20,7 +20,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![NoSQL (MongoDB)](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6F00?logo=api&logoColor=white)  
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertest-000000?logo=supertest&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)<br>
-
-```
-console.log(motto); // "Calm under pressure, curious by default."
-```
