@@ -2,7 +2,7 @@
 
 👨‍💻 Software Engineer<br> 
 🎓 University of Virginia<br>
-💼 Working on Polybase & Encryptora<br>
+💼 Working on Encryptora<br>
 🌱 Learning Ruby on Rails<br>
 
 <h4>Languages</h4>
